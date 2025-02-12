@@ -30,7 +30,7 @@ Visual studio code       5 hrs 4 mins        ███████░░░░�
 PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
 
 💻 Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████░░░░░░░░  100.0%
-Arch (hyprland)          20 hrs 3 mins       █████████████████████████
+Windows                  17 hrs 5 mins       █████████████████░░░░░░░░   80.6%
+Arch (hyprland)          20 hrs 3 mins       █████████████████████████   100.2%
 ```
 <!--END_SECTION:waka-->
