@@ -15,7 +15,7 @@
 
 
 ```text
-⌚︎ Timezone: india/rêunion
+⌚︎ Timezone: indian/rêunion
 
 💬 Languages: 
 JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
