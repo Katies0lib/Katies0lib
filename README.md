@@ -1,7 +1,7 @@
 <h1>Hi, Welcome to my profile </h1>
 -
 <!--START_SECTION:waka-->
-**** 
+<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
 
 ```text
 🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
