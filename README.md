@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> <a href="https://darkwood.com"> <img src="https://github.com/user-attachments/assets/505424b9-2a01-4629-9bd8-daf58d5c541e" width="40" height="40" alt="Arch_linux"/></a>
 
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+```
+🌞 Morning    12 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    01 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    11 commits     █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
 
 ```
 
