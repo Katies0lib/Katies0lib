@@ -31,6 +31,6 @@ PhpStorm                 2 hrs 28 mins       ███░░░░░░░░�
 
 💻 Operating Systems: 
 Windows                  17 hrs 5 mins       █████████████████░░░░░░░░   80.6%
-Arch (hyprland)          20 hrs 3 mins       █████████████████████████   100.2%
+Arch (hyprland)(kde)     20 hrs 3 mins       █████████████████████████   100.2%
 ```
 <!--END_SECTION:waka-->
