@@ -1,4 +1,4 @@
-<h1>Hi, Welcome to my profile 🤗</h1>
+<h1>Hi, Welcome to my profile </h1>
 
 <!--START_SECTION:waka-->
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> <a href="https://darkwood.com"> <img src="https://github.com/user-attachments/assets/505424b9-2a01-4629-9bd8-daf58d5c541e" width="40" height="40" alt="Arch_linux"/></a>
